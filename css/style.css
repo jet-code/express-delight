@@ -1,0 +1,39 @@
+﻿/* css stylesheet */
+
+html {
+  position:relative; 
+  min-height: 100%;
+}
+
+html, body {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding-bottom: 5em; 
+}
+
+h1 {
+  margin-top: 0px;
+  padding-top: 0.5em;
+}
+
+.text {
+  font-size: 1.15em;
+}
+
+.txt-nav {
+  font-size: 1.1em;
+}
+
+.txt-footer {
+  font-size: 1.05em;
+}
+
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
